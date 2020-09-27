@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const CustomError = require("../extensions/custom-error");
 
 module.exports = function countCats(str) {
@@ -9,4 +10,3 @@ module.exports = function countCats(str) {
      sum++;
      pos +=2; 
   }
-}
